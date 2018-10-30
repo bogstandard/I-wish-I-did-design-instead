@@ -1,7 +1,7 @@
 # "I wish I did design instead" 
 A collaborative dump of design / creative / advertising / illustration sites for inspiration &amp; general reading.
 
-## Links
+## Links, in no particular order
 - [Highsnobiety](https://www.highsnobiety.com)
 - [Under Consideration / Brand New](https://www.underconsideration.com/brandnew/)
 - [Designer News](https://www.designernews.co)
@@ -16,6 +16,10 @@ A collaborative dump of design / creative / advertising / illustration sites for
 - [Pttrns](https://pttrns.com)
 - [Facebook Design](https://facebook.design)
 - [Coca-Cola Company](https://www.coca-colacompany.com)
+- [Creative Review](https://www.creativereview.co.uk)
+- [Creative Review / Branding News](https://www.creativereview.co.uk/landing-page/branding-news/)
+- [Branding News](https://www.branding.news)
+- [Design Week](https://www.designweek.co.uk)
 
 ## Contributing
 Go nuts, I won't be an jerk.
