@@ -20,6 +20,8 @@ A collaborative dump of design / creative / advertising / illustration sites for
 - [Creative Review / Branding News](https://www.creativereview.co.uk/landing-page/branding-news/)
 - [Branding News](https://www.branding.news)
 - [Design Week](https://www.designweek.co.uk)
+- [Campaign Live / The Work](https://www.campaignlive.co.uk/the-work)
+- [The Drum / Creative Works](https://www.thedrum.com/creative-works)
 
 ## Contributing
 Go nuts, I won't be an jerk.
