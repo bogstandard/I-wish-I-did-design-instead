@@ -14,6 +14,8 @@ A collaborative dump of design / creative / advertising / illustration sites for
 - [Logo Sign Love](https://www.logodesignlove.com)
 - [Hyperpixel](https://hyperpixel.io)
 - [Pttrns](https://pttrns.com)
+- [Facebook Design](https://facebook.design)
+- [Coca-Cola Company](https://www.coca-colacompany.com)
 
 ## Contributing
 Go nuts, I won't be an jerk.
