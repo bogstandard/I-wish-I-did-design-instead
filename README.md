@@ -12,3 +12,8 @@ A collaborative dump of design / creative / advertising / illustration sites for
 - [Behance](https://www.behance.net)
 - [Behance / Graphic Design](https://www.behance.net/galleries/2/Graphic-Design)
 - [Logo Sign Love](https://www.logodesignlove.com)
+- [Hyperpixel](https://hyperpixel.io)
+- [Pttrns](https://pttrns.com)
+
+## Contributing
+Go nuts, I won't be an jerk.
