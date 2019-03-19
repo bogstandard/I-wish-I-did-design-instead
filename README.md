@@ -24,6 +24,7 @@ A collaborative dump of design / creative / advertising / illustration sites for
 - [Campaign Live / The Work](https://www.campaignlive.co.uk/the-work)
 - [The Drum / Creative Works](https://www.thedrum.com/creative-works)
 - [UX Planet](https://uxplanet.org)
+- [Dezeen](https://www.dezeen.com)
 
 ## Contributing
 Go nuts, I won't be an jerk.
